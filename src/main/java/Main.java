@@ -33,6 +33,7 @@ public class Main {
         }
 
         System.out.println(mapaStudentow);
+        System.out.println("coś się zmieniło");
 
 
 
