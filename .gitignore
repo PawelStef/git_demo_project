@@ -1,4 +1,9 @@
-.idea/
-classes/
+# Created by https://www.gitignore.io/api/intellij lub wpisz
+# Edit at https://www.gitignore.io/?templates=intellij lub wpisz
+
+#!! ERROR: intellij lub wpisz is undefined. Use list command to see defined gitignore types !!#
+
+# End of https://www.gitignore.io/api/intellij lub wpisz
 target/
+.idea/
 *.iml
